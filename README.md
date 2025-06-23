@@ -43,13 +43,13 @@ python -m unittest discover tests/
 
 2. Proposition de correction pour les tests unitaires avec Pytest :
 ```
-git checkout pytest-test
+git checkout pytest-test-1
 pytest
 ```
 
 3. Proposition de correction pour les mocks avec Pytest:
 ```
-git checkout mock-test
+git checkout mock-test-1
 pytest
 ```
 
